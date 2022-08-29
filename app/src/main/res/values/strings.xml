@@ -1,3 +1,4 @@
+
 <resources>
     <string name="app_name">Lab7</string>
     <string name="action_settings">Settings</string>
@@ -7,7 +8,7 @@
     <string name="third_fragment_label">Tercer Fragmento</string>
     <string name="lab_7">Laboratorio 7</string>
     <string name="update_perfil">Actualizar Perfil</string>
-    <string name="welcome">¡Bienvenido!</string>
+    <string name="welcome">¡Buenos días!</string>
     <string name="enter_email">Ingresa tu correo</string>
     <string name="new_user">¿No tienes cuenta? Crear cuenta nueva</string>
     <string name="login">Iniciar Sesión</string>
@@ -15,4 +16,5 @@
     <string name="create_account">Crear cuenta</string>
     <string name="my_perfil">Mi Perfil</string>
     <string name="return_Menu">Regresar al Menu</string>
+
 </resources>

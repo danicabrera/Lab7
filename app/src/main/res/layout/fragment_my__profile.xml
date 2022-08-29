@@ -35,15 +35,15 @@
 
     <com.google.android.material.imageview.ShapeableImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="0dp"
         android:contentDescription="@string/my_perfil"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4"
         tools:ignore="ImageContrastCheck"
-        tools:src="@tools:sample/avatars[4]"
+        tools:src="@drawable/ic_camera"
 
         tools:visibility="visible" />
 </androidx.constraintlayout.widget.ConstraintLayout>

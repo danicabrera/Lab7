@@ -1,5 +1,6 @@
 package com.cabrera.lab7
 
+import android.annotation.SuppressLint
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -29,10 +30,11 @@ class Welcome : Fragment() {
         return binding.root
     }
 
+    @SuppressLint("SetTextI18n")
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        binding.textView2.text = username
+        binding.textView2.text = "¡Hola $username, necesitamos que actualices tu perfil!"
 
         binding.ButtonToProfile.setOnClickListener {
             findNavController().navigate(R.id.action_welcome_to_my_Profile)
