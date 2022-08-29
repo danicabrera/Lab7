@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="third_fragment_label">Third Fragment</string>
+    <string name="laboratorio_7">Laboratorio 7</string>
+    <string name="actualizar_perfil">Actualizar Perfil</string>
+    <string name="buenos_d_as">Buenos Días!</string>
+    <string name="ingresa_tu_correo">Ingresa tu correo</string>
+    <string name="nuevo_usuario_crear_cuenta">Nuevo Usuario? : Crear cuenta</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="mi_perfil">Mi Perfil</string>
+    <string name="regresar_al_menu">Regresar al Menu</string>
+</resources>
