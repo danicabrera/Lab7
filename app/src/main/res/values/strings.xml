@@ -7,9 +7,9 @@
     <string name="third_fragment_label">Tercer Fragmento</string>
     <string name="laboratorio_7">Laboratorio 7</string>
     <string name="actualizar_perfil">Actualizar Perfil</string>
-    <string name="buenos_d_as">¡Buenos Días!</string>
+    <string name="buenos_d_as">¡Bienvenido!</string>
     <string name="ingresa_tu_correo">Ingresa tu correo</string>
-    <string name="nuevo_usuario_crear_cuenta">¿No tienes cuenta? : Crear cuenta</string>
+    <string name="nuevo_usuario_crear_cuenta">¿No tienes cuenta? : \n Crear cuenta nueva</string>
     <string name="iniciar_sesi_n">Iniciar Sesión</string>
     <string name="crear_cuenta">Crear Cuenta</string>
     <string name="registrarse">Registrarse</string>
