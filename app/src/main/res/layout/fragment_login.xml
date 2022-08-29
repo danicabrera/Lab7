@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="1dp">
+        tools:layout_editor_absoluteX="-48dp">
 
         <TextView
             android:id="@+id/textView"
@@ -37,7 +37,7 @@
             android:inputType="textEmailAddress"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView"
+            app:layout_constraintTop_toBottomOf="@id/textView"
             tools:ignore="TextContrastCheck,TouchTargetSizeCheck" />
 
         <Button
@@ -46,7 +46,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:text="@string/nuevo_usuario_crear_cuenta"
-            app:layout_constraintStart_toStartOf="@+id/Text_Input_Register_Mail"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/Text_Input_Register_Mail" />
 
         <Button

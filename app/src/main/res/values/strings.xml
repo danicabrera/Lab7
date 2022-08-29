@@ -8,11 +8,11 @@
     <string name="laboratorio_7">Laboratorio 7</string>
     <string name="actualizar_perfil">Actualizar Perfil</string>
     <string name="buenos_d_as">¡Buenos Días!</string>
-    <string name="ingresa_tu_correo">Por favor, Ingresa tu correo: </string>
+    <string name="ingresa_tu_correo">Ingresa tu correo</string>
     <string name="nuevo_usuario_crear_cuenta">¿No tienes cuenta? : Crear cuenta</string>
-    <string name="iniciar_sesi_n">Inicia Sesión</string>
-    <string name="crear_cuenta">Crear Cuenta Nueva</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
     <string name="registrarse">Registrarse</string>
     <string name="mi_perfil">Mi Perfil</string>
-    <string name="regresar_al_menu">Menú</string>
+    <string name="regresar_al_menu">Regresar al Menu</string>
 </resources>
