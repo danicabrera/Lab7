@@ -1,4 +1,4 @@
-package com.marti21430.lab7
+package com.cabrera.lab7
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

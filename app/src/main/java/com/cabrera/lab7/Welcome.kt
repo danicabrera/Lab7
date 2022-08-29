@@ -1,4 +1,4 @@
-package com.marti21430.lab7
+package com.cabrera.lab7
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,8 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
-import com.marti21430.lab7.databinding.FragmentWelcomeBinding
-import com.marti21430.lab7.MyApplication.Companion.username
+import com.cabrera.lab7.databinding.FragmentWelcomeBinding
+import com.cabrera.lab7.MyApplication.Companion.username
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.

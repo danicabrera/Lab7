@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/login"
-        android:name="com.marti21430.lab7.Login"
+        android:name="com.cabrera.lab7.Login"
         android:label="Login" >
         <action
             android:id="@+id/action_login_to_welcome"
@@ -18,7 +18,7 @@
     </fragment>
     <fragment
         android:id="@+id/my_Profile"
-        android:name="com.marti21430.lab7.My_Profile"
+        android:name="com.cabrera.lab7.My_Profile"
         android:label="My_Profile" >
         <action
             android:id="@+id/action_my_Profile_to_login"
@@ -26,7 +26,7 @@
     </fragment>
     <fragment
         android:id="@+id/register"
-        android:name="com.marti21430.lab7.Register"
+        android:name="com.cabrera.lab7.Register"
         android:label="Register" >
         <action
             android:id="@+id/action_register_to_welcome"
@@ -34,7 +34,7 @@
     </fragment>
     <fragment
         android:id="@+id/welcome"
-        android:name="com.marti21430.lab7.Welcome"
+        android:name="com.cabrera.lab7.Welcome"
         android:label="Welcome" >
         <action
             android:id="@+id/action_welcome_to_my_Profile"

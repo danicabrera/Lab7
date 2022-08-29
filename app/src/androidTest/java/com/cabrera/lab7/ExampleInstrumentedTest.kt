@@ -1,4 +1,4 @@
-package com.marti21430.lab7
+package com.cabrera.lab7
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
